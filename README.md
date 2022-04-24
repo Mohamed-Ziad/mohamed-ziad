@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I'm currently working on Volunteering Systems
+- 🌱 I'm currently learning Front End Advanced Technologies
+- 💬 Ask me about anything
 <!--
 **Mohamed-Ziad/mohamed-ziad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
