@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm Currently Learning C++<br>🎯 Goals: Software Engineer</p>
+<p align="left">📚 Learning...<br>🎯 Goals: Software Engineer</p>
 
 ###
 
